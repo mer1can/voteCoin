@@ -1,0 +1,40 @@
+#VoteCoin Project
+
+###Forgive my pseudocode
+
+###Feel free to edit this, on one condition: You leave your additions in commented form, along with your name (or handle) next to your additions.
+
+###Coin Definitions Here###
+
+#Coins should be divided into the different elections (i.e. County, Municiple, State, Federal) just like a dollar can be seen as four quarters, 10 dimes, 20 nickels, etc.
+
+
+#Address Designation (Candidate accounts)
+#Voters "Spend" their VoteCoin on the candidates they want to vote for. 
+
+###Example###
+#Federal (Presidential Accounts):
+#Trump's Address: 0x872gj3997hdj733887
+#Kamala's Address: 0x98hqoa887ddnk3092
+#RFK's Address: 0x99jd93jdjx8eb399en299sn
+
+###State Accounts:
+#[ALABAMA - WYOMING]
+
+###Local Accounts:
+#[Counties of states, boards, municipalities, etc]
+###Touples or dictionaries?? Will get complex based on location, but we can work that out
+
+
+#Coins are premined to have the estimated number of coins as votes
+#One person to one coin
+#Premined coins: 150,000,000 
+
+
+
+#Utilize existing KYC (Know Your Customer) technology to verify the authenticity of coins before dispersal
+
+###ELECTION DAY!!!###
+
+###
+# voter.spend(Trump, Cruz, Peggy Sue for School Board, Jim Bob for County Sherrif, etc )
